@@ -1,2 +1,2 @@
-# GAN-Based-Data-Augmentation-For-Robust-Deep-Learning-Models-in-Medical-Images
+# Enhanced Conditional GAN-Augmented Deep Neural Network with Self-Attention for Diabetic Foot Ulcer Classification
 Dissertation project which explores the application of Generative Adversarial Networks (GANs) in medical imaging, particularly for addressing challenges like limited and imbalanced datasets. The project includes implementations of GAN variants, focusing on medical use cases like diabetic foot ulcer (DFU) classification.
